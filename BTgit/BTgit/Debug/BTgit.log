@@ -1,2 +1,8 @@
 ﻿  Source.cpp
-  BTgit.vcxproj -> E:\BTOSS\BTgit\Debug\BTgit.exe
+D:\ossBTgit2\BTgit\BTgit\Source.cpp(45,11): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+D:\ossBTgit2\BTgit\BTgit\Source.cpp(49,11): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+D:\ossBTgit2\BTgit\BTgit\Source.cpp(53,17): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+D:\ossBTgit2\BTgit\BTgit\Source.cpp(57,11): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+D:\ossBTgit2\BTgit\BTgit\Source.cpp(61,15): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\ossBTgit2\BTgit\BTgit\Source.cpp(65,15): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  BTgit.vcxproj -> D:\ossBTgit2\BTgit\Debug\BTgit.exe
